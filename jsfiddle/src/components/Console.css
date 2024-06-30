@@ -1,0 +1,26 @@
+
+.console {
+    background-color: #1e1e1e;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    height: 150px;
+    overflow-y: auto;
+    border-top: 1px solid #ccc;
+  }
+  
+  .console-log {
+    display: flex;
+    align-items: center;
+    padding: 5px 0;
+  }
+  
+  .console-icon {
+    color: #ff5555;
+    margin-right: 10px;
+  }
+  
+  .console-message {
+    flex: 1;
+  }
+  
